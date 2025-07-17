@@ -1,6 +1,11 @@
 # 💫 About Me:
-I am the architect of my destiny, actively steering the course of my life. After years of overlooking the power I wield over my personal universe .
-
+`// AI Enthusiast | Techie | Footballer | Traveller | Not a perfect guy`   
+   I write code, fix things I broke, and pretend I planned it all along. I’ve been doing this for 12 years now. Some of my projects even ended up on Visualstudio Marketplace, NPM, Nuget , CNET — I still don’t know how, but I’ll take the credit and act humble later.   
+   I speak fluent C#, Sql, JavaScript, and just enough CSS to center a div... on a good day. I’ve worked with amazing teammates, stayed up too late fixing bugs, and had way too many coffee-fueled nights trying to make a button look “just right.” My resume is floating around here if you want to see the serious stuff. But honestly, I’m better in person. Or on Slack. Or after coffee.   
+   Sometimes my code works on the first try. I don’t trust it when that happens. I believe in clean code, dirty jokes, and the magic of turning Stack Overflow copy-paste into full-blown features. Anyway, welcome to my little corner of the internet. Don’t be shy — click around. I broke things just enough to make it fun.   
+   
+P.S. If anything crashes, it’s a “feature”.   
+   
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4655349) 
