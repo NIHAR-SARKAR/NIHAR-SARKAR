@@ -16,7 +16,7 @@ jobs:
       
     steps:
       - uses: actions/checkout@v2
-      - uses: NIHAR-SARKAR/github-profile-summary-cards@release
+      - uses: NIHAR-SARKAR/NIHAR-SARKAR@release
         env:
           GITHUB_TOKEN: ${{ secrets.profile-summary-cards-token }}
         with:
